@@ -16,7 +16,7 @@ Los siguientes comandos se ejecutan desde la terminal de VS Code.
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/Irigoitia/Redes_Neuronales
+git clone https://github.com/Irigoitia/Redes_Neuronales.git
 cd Redes_Neuronales
 ```
 
